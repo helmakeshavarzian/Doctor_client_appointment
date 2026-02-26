@@ -1,4 +1,4 @@
-# Python-Foundation-Projects
+# Doctor_Client_appointment
 My Python coursework projects.
 # Doctor-Client System 🏥
 
